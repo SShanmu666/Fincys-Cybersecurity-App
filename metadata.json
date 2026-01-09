@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Fincys Cyber Security",
+  "description": "A high-end cybersecurity platform designed to protect banking credentials and identify scams in emails, calls, and messages using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
